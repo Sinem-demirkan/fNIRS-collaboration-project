@@ -80,7 +80,7 @@ My contributions included:
 
 - **Data collection:** Conducted experimental sessions and coordinated the acquisition of multimodal recordings.
 - **Data management and storage:** Organized the collected data on Box, including systematic file renaming, folder structuring, and maintaining consistent data organization across participants and sessions.
-- **Experimental documentation:** Maintained an experimental logbook recording session details, technical difficulties, unexpected events, and issues encountered during data collection. I subsequently digitized and organized these records into a structured document to facilitate troubleshooting, data quality assessment, and subsequent analyses.
+- **Experimental documentation:** Maintained an experimental logbook recording session details, technical difficulties, unexpected events, and issues encountered during data collection. I subsequently digitized and organized these records into a structured document.
 
 #### 5.3 Additional Children's Dataset (July–August 2025)
 
