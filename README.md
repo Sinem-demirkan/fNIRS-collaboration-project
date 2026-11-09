@@ -7,8 +7,8 @@ I developed and documented the **3-Task/4-Task experimental pipeline**, along wi
 My contributions include:
 
 - **Experimental setup:** Established procedures for configuring fNIRS hardware and software, network connections, PsychoPy scripts, and recording equipment.
-- **Experiment implementation:** Documented procedures for coordinating participant sessions and collecting synchronized fNIRS, video, and audio recordings.
-- **Data management:** Established guidelines for organizing recordings and performing post-session checks.
+- **Experiment implementation:** Established and documented procedures for coordinating participant sessions and collecting synchronized fNIRS, video, and audio recordings.
+- **Data management:** Documented guidelines for organizing recordings and performing post-session checks.
 - **Documentation and training:** Authored a step-by-step experimental manual used to train new members joining the 3-Task/4-Task research team from **September 2024 onward**.
 
 The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 5, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
