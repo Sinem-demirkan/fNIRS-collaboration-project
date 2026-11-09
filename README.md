@@ -60,27 +60,46 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
-### 5. Data Collection ###
+### 5. Data Collection
 
-**5.1 Adult Pilot Dataset (September–December 2024) (I was the coordinator of this dataset acquisiton, and was also responsible for training everyone)**
+#### 5.1 Adult Pilot Dataset (September–December 2024)
 
-A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
+A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**.
 
-**5.2 School Dataset (April–July 2025)**
+I was responsible for **coordinating the dataset acquisition, organizing experimental sessions, and training all team members involved in data collection**, ensuring consistency in experimental procedures and equipment handling.
 
-A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
+Data collection was conducted by **Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024)**, and **Reem al Najjar (November–December 2024)**.
+
+#### 5.2 School Dataset (April–July 2025)
+
+A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children.
+
+Data collection was primarily conducted by **Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, and Reem al Najjar**, with invaluable contributions from **Barokshana Baskaran, Gabrielle Alimi, and Imani Stone**.
 
 My contributions included:
 
-Data collection: Conducted experimental sessions and coordinated the acquisition of multimodal recordings.
+- **Data collection:** Conducted experimental sessions and coordinated the acquisition of multimodal recordings.
+- **Data management and storage:** Organized the collected data on Box, including systematic file renaming, folder structuring, and maintaining consistent data organization across participants and sessions.
+- **Experimental documentation:** Maintained an experimental logbook recording session details, technical difficulties, unexpected events, and issues encountered during data collection. I subsequently digitized and organized these records into a structured document to facilitate troubleshooting, data quality assessment, and subsequent analyses.
 
-Data management and storage: Organized the collected data on Box, including systematic file renaming, folder structuring, and maintaining consistent data organization across participants and sessions.
+#### 5.3 Additional Children's Dataset (July–August 2025)
 
-Experimental documentation: Maintained an experimental logbook recording session details, technical difficulties, unexpected events, and issues encountered during data collection. I subsequently digitized and organized these records into a structured document to facilitate troubleshooting, data quality assessment, and subsequent analyses.
+A third dataset comprising **8 dyads** was collected during July–August 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children.
 
-**5.3 Kids Data Collection (July-August)**
+Data collection was primarily conducted by **Sinem Demirkan, Cindy de Arajullo Silva, and Reem al Najjar**, with valuable contributions from **Barokshana Baskaran**.
 
-A third dataset comprising **8 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva,Reem al Najjar), and invaluable work by Barokshana Baskaran.
+#### 5.4 fNIRS Equipment Configuration, Preparation, and Technical Coordination
+
+In addition to data collection, I was responsible for preparing, configuring, and maintaining the fNIRS equipment, coordinating technical support and procurement, and training new team members.
+
+My contributions included:
+
+- **fNIRS cap configuration:** Created the optode montage using NIRSite, based on the experimental framework described in Bonnaire, Dumas, and Cassell (2024).
+- **Cap preparation and training:** Assembled the fNIRS caps, trained incoming interns in cap preparation and optode placement, and worked alongside them on cap assembly.
+- **Equipment procurement and coordination:** Served as the primary point of contact with **NIRx**, particularly **Felix Topfner** (for most of 2024), followed by **Giovanni Hering, Maria Adelia de Aratanha, and Elina Zmeykina**, coordinating cap orders, additional equipment purchases, technical inquiries, and follow-ups.
+- **Software maintenance:** Managed compatible versions of **Aurora and Hyperscan** to maintain a consistent and functional fNIRS acquisition setup.
+
+These contributions supported the continuity of experimental operations, standardized equipment preparation, and reliable multimodal data collection across the different studies.
 
 **GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
 
