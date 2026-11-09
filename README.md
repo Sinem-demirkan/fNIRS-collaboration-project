@@ -70,6 +70,18 @@ A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Resea
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
+My contributions included:
+
+Data collection: Conducted experimental sessions and coordinated the acquisition of multimodal recordings.
+
+Data management and storage: Organized the collected data on Box, including systematic file renaming, folder structuring, and maintaining consistent data organization across participants and sessions.
+
+Experimental documentation: Maintained an experimental logbook recording session details, technical difficulties, unexpected events, and issues encountered during data collection. I subsequently digitized and organized these records into a structured document to facilitate troubleshooting, data quality assessment, and subsequent analyses.
+
+**5.3 Kids Data Collection (July-August)**
+
+A third dataset comprising **8 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva,Reem al Najjar), and invaluable work by Barokshana Baskaran.
+
 **GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
 
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
