@@ -1,8 +1,11 @@
 Both the fNIRS collaboration study Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from January 2024 to August 2025.
 
-These documents provide guidelines for experimental setup, data collection, rapport annotation, and post-collection processing, contributing to the documentation and reproducibility of the research workflows. These documents were used in training all new people joining to the 3-Task/4-tasks team from **September 2024** and on.
+**1. EXPERIMENT MANUAL**
+These documents provide guidelines for experimental setup, data collection, and post-collection processing, contributing to the documentation and reproducibility of the research workflows. These documents were used in training all new people joining to the 3-Task/4-tasks team from **September 2024** and on.
 
-This repository documents the practical setup and operation of a two-participant fNIRS hyperscanning experiment. It is intended to help experimenters prepare the equipment (setup fNIRS software and start the Psychopy script), coordinate participant sessions, collect synchronized recordings, and complete post-session checks consistently. Two datasets were collected as part of the experimental study:
+This repository documents the practical setup and operation of a two-participant fNIRS hyperscanning experiment. It is intended to help experimenters prepare the equipment (setup fNIRS software and start the Psychopy script), coordinate participant sessions, collect synchronized recordings, and complete post-session checks consistently. Two datasets were collected using this pipeline, that I'll explain further in section 2.
+
+**2. DATA COLLECTION**
 
 **1. Adult Pilot Dataset (September–December 2024)**
 
