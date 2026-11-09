@@ -1,6 +1,6 @@
 Both the fNIRS collaboration study Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from **January 2024 to August 2025**.
 
-**1. EXPERIMENT MANUAL**
+**1. WRITING AND CREATION OF THE 3TASK/4TASK PIPELINE (ALONG WITH THE EXPERIMENT MANUAL)**
 
 These documents provide guidelines for experimental setup, data collection, and post-collection processing, contributing to the documentation and reproducibility of the research workflows. These documents were used in training all new people joining to the 3-Task/4-tasks team from **September 2024** and on.
 
@@ -8,15 +8,15 @@ This repository documents the practical setup and operation of a two-participant
 
 **2. DATA COLLECTION**
 
-**1. Adult Pilot Dataset (September–December 2024)**
+**2.1 Adult Pilot Dataset (September–December 2024)**
 
 A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
 
-**2. School Dataset (April–July 2025)**
+**2.2 School Dataset (April–July 2025)**
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
-**fNIRS Data Processing and Analysis**
+**3. fNIRS DATA PROCESSING ANALYSIS**
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
@@ -35,9 +35,22 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
-**3. INTERPERSONAL RAPPORT MANUAL**
+### 4. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
-ACKNOWLEDGMENTS AND CREDITS
+I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
+
+The pipeline enables researchers to **create new experiments or reuse my existing experimental design** using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
+
+My contributions include:
+
+- **Experimental design:** Developed reusable annotation tasks for evaluating interpersonal rapport in 30-second video segments.
+- **Experiment implementation:** Established procedures for experiment setup, participant recruitment, and data collection.
+- **Data processing and analysis:** Documented methods for extracting and aggregating annotations, assessing inter-rater reliability, and calculating consolidated rapport scores.
+- **Documentation:** Authored a step-by-step manual to facilitate reproducibility and reuse by other researchers.
+
+**Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
+
+**GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
 
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
 
