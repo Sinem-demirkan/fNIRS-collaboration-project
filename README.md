@@ -12,6 +12,27 @@ A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Resea
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
+** fNIRS Data Processing and Analysis **
+My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
+
+The analysis notebook includes:
+
+Loading and preprocessing paired fNIRS recordings.
+
+Checking temporal alignment using experimental event annotations.
+
+Identifying experimental conditions, including solo, collaboration, and free discussion.
+
+Computing wavelet-transform coherence (WTC) between participants' neural signals.
+
+Analyzing coherence in 30-second intervals.
+
+Extracting and aggregating coherence measures across selected brain regions, including the superior temporal sulcus (STS) and temporoparietal junction (TPJ).
+
+I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
+
+ACKNOWLEDGMENTS AND CREDITS
+
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
 
 I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
