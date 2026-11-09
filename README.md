@@ -13,7 +13,7 @@ My contributions include:
 
 The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 4, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
 
-###2. fNIRS DATA PROCESSING ANALYSIS###
+### 2. fNIRS DATA PROCESSING ANALYSIS ###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
