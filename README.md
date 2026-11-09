@@ -12,22 +12,22 @@ A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Resea
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
-** fNIRS Data Processing and Analysis **
+**fNIRS Data Processing and Analysis**
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
 
-Loading and preprocessing paired fNIRS recordings.
+- Loading and preprocessing paired fNIRS recordings.
 
-Checking temporal alignment using experimental event annotations.
+- Checking temporal alignment using experimental event annotations.
 
-Identifying experimental conditions, including solo, collaboration, and free discussion.
+- Identifying experimental conditions, including solo, collaboration, and free discussion.
 
-Computing wavelet-transform coherence (WTC) between participants' neural signals.
+- Computing wavelet-transform coherence (WTC) between participants' neural signals.
 
-Analyzing coherence in 30-second intervals.
+- Analyzing coherence in 30-second intervals.
 
-Extracting and aggregating coherence measures across selected brain regions, including the superior temporal sulcus (STS) and temporoparietal junction (TPJ).
+- Extracting and aggregating coherence measures across selected brain regions, including the superior temporal sulcus (STS) and temporoparietal junction (TPJ).
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
