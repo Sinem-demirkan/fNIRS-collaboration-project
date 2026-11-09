@@ -10,7 +10,7 @@ Two datasets were collected as part of the experimental study:
 
 **1. Adult Pilot Dataset (September–December 2024)**
 
-A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), with Reem al Najjar joining the data collection efforts in November 2024 (November–December 2024).
+A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
 
 **2. School Dataset (April–July 2025)**
 
