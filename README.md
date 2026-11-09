@@ -13,7 +13,22 @@ My contributions include:
 
 The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 4, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
 
-### 2. fNIRS DATA PROCESSING ANALYSIS ###
+### 2. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
+
+I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
+
+The pipeline enables researchers to **create new experiments or reuse my existing experimental design** using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
+
+My contributions include:
+
+- **Experimental design:** Developed reusable annotation tasks for evaluating interpersonal rapport in 30-second video segments.
+- **Experiment implementation:** Established procedures for experiment setup, participant recruitment, and data collection.
+- **Data processing and analysis:** Documented methods for extracting and aggregating annotations, assessing inter-rater reliability, and calculating consolidated rapport scores.
+- **Documentation:** Authored a step-by-step manual to facilitate reproducibility and reuse by other researchers.
+
+**Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
+
+### 3. fNIRS DATA PROCESSING ANALYSIS ###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
@@ -31,21 +46,6 @@ The analysis notebook includes:
 - Extracting and aggregating coherence measures across selected brain regions, including the superior temporal sulcus (STS) and temporoparietal junction (TPJ).
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
-
-### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
-
-I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
-
-The pipeline enables researchers to **create new experiments or reuse my existing experimental design** using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
-
-My contributions include:
-
-- **Experimental design:** Developed reusable annotation tasks for evaluating interpersonal rapport in 30-second video segments.
-- **Experiment implementation:** Established procedures for experiment setup, participant recruitment, and data collection.
-- **Data processing and analysis:** Documented methods for extracting and aggregating annotations, assessing inter-rater reliability, and calculating consolidated rapport scores.
-- **Documentation:** Authored a step-by-step manual to facilitate reproducibility and reuse by other researchers.
-
-**Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
 
 ### 4. DATA COLLECTION ###
 
