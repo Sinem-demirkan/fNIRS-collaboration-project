@@ -1,4 +1,4 @@
-Both the fNIRS 3-Tasks Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from January 2024 to August 2025.
+Both the fNIRS collaboration study Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from January 2024 to August 2025.
 
 These documents provide guidelines for experimental setup, data collection, rapport annotation, and post-collection processing, contributing to the documentation and reproducibility of the research workflows. These documents were used in training all new people joining to the 3-Task/4-tasks team from **September 2024** and on.
 
