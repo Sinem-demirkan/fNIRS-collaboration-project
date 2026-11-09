@@ -11,19 +11,9 @@ My contributions include:
 - **Data management:** Established guidelines for organizing recordings and performing post-session checks.
 - **Documentation and training:** Authored a step-by-step experimental manual used to train new members joining the 3-Task/4-Task research team from **September 2024 onward**.
 
-The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 2, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
+The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 4, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
 
-**2. DATA COLLECTION**
-
-**2.1 Adult Pilot Dataset (September–December 2024)**
-
-A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
-
-**2.2 School Dataset (April–July 2025)**
-
-A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
-
-**3. fNIRS DATA PROCESSING ANALYSIS**
+###2. fNIRS DATA PROCESSING ANALYSIS###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
@@ -42,7 +32,7 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
-### 4. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
+### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
 I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
 
@@ -56,6 +46,16 @@ My contributions include:
 - **Documentation:** Authored a step-by-step manual to facilitate reproducibility and reuse by other researchers.
 
 **Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
+
+###4. DATA COLLECTION###
+
+**4.1 Adult Pilot Dataset (September–December 2024)**
+
+A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
+
+**4.2 School Dataset (April–July 2025)**
+
+A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
 **GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
 
