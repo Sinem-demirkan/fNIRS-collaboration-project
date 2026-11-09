@@ -64,3 +64,5 @@ Professor Justine Cassell made this research possible and I thank her for the op
 I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
 
 For the Rapport Annotation Pipeline, I thank Clara Coridon for the helpful discussions, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
+
+Merci aussi à Julie Bonnaire qui m'a beaucoup aidé à mon intégration à l'équipe!
