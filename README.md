@@ -26,9 +26,9 @@ This implementation established the experimental software and synchronization wo
 
 ### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
-I designed and developed an **interpersonal rapport annotation pipeline** and wrote the manual to enable the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
+I designed and developed an interpersonal rapport annotation pipeline and wrote the manual to enable the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
 
-The pipeline enables researchers to **create new experiments or reuse my existing experimental design** using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
+The pipeline enables researchers to create new experiments or reuse my existing experimental design using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
 
 My contributions include:
 
