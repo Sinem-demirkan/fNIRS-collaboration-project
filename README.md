@@ -84,9 +84,9 @@ My contributions included:
 
 #### 5.3 Additional Children's Dataset (July–August 2025)
 
-A third dataset comprising **8 dyads** was collected during July–August 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children.
+A third dataset comprising **8 dyads** was collected during July–August 2025 at Inria Paris Center, involving pairs of younger children.
 
-Data collection was primarily conducted by **Sinem Demirkan, Cindy de Arajullo Silva, and Reem al Najjar**, with valuable contributions from **Barokshana Baskaran**.
+Data collection was conducted by Sinem Demirkan, Cindy de Arajullo Silva, Reem al Najjar, and Barokshana Baskaran.
 
 #### 5.4 fNIRS Equipment Configuration, Preparation, and Technical Coordination
 
@@ -96,8 +96,9 @@ My contributions included:
 
 - **fNIRS cap configuration:** Created the optode montage using NIRSite, based on the experimental framework described in Bonnaire, Dumas, and Cassell (2024).
 - **Cap preparation and training:** Assembled the fNIRS caps, trained incoming interns in cap preparation and optode placement, and worked alongside them on cap assembly.
-- **Equipment procurement and coordination:** Served as the primary point of contact with **NIRx**, particularly **Felix Topfner** (for most of 2024), followed by **Giovanni Hering, Maria Adelia de Aratanha, and Elina Zmeykina**, coordinating cap orders, additional equipment purchases, technical inquiries, and follow-ups.
-- **Software maintenance:** Managed compatible versions of **Aurora and Hyperscan** to maintain a consistent and functional fNIRS acquisition setup.
+- **Equipment procurement and coordination:** Served as the primary point of contact with **NIRx**, particularly Felix Topfner (for most of 2024), followed by Giovanni Hering, Maria Adelia de Aratanha, and Elina Zmeykina, coordinating cap orders, additional equipment purchases, technical inquiries, and follow-ups.
+- **Software maintenance:** Managed compatible versions of Aurora and Hyperscan to maintain a consistent and functional fNIRS acquisition setup.
+- **Conducting interviews with the new interns**
 
 These contributions supported the continuity of experimental operations, standardized equipment preparation, and reliable multimodal data collection across the different studies.
 
