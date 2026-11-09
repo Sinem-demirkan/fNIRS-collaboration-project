@@ -47,9 +47,9 @@ My contributions include:
 
 **Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
 
-###4. DATA COLLECTION###
+### 4. DATA COLLECTION ###
 
-**4.1 Adult Pilot Dataset (September–December 2024)**
+**4.1 Adult Pilot Dataset (September–December 2024) (I was the coordinator of this dataset acquisiton, and was also responsible for training everyone)**
 
 A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
 
