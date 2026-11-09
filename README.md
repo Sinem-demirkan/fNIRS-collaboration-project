@@ -104,7 +104,7 @@ These contributions supported the continuity of experimental operations, standar
 
 **GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
 
-Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
+Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer and happy to have contributed significantly to this project.
 
 I worked closely with Cindy de Arajullo Silva and Hasan Onur Keles in operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
 
