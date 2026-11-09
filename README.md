@@ -1,10 +1,17 @@
 Both the fNIRS collaboration study Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from **January 2024 to August 2025**.
 
-**1. WRITING AND CREATION OF THE 3TASK/4TASK PIPELINE (ALONG WITH THE EXPERIMENT MANUAL)**
+### 1. Development and Documentation of the 3-Task/4-Task Experimental Pipeline
 
-These documents provide guidelines for experimental setup, data collection, and post-collection processing, contributing to the documentation and reproducibility of the research workflows. These documents were used in training all new people joining to the 3-Task/4-tasks team from **September 2024** and on.
+I developed and documented the **3-Task/4-Task experimental pipeline**, along with a detailed experimental manual, to support the standardized setup, execution, and data collection of two-participant fNIRS hyperscanning experiments.
 
-This repository documents the practical setup and operation of a two-participant fNIRS hyperscanning experiment. It is intended to help experimenters prepare the equipment (setup fNIRS software and start the Psychopy script), coordinate participant sessions, collect synchronized recordings, and complete post-session checks consistently. Two datasets were collected using this pipeline, that I'll explain further in section 2.
+My contributions include:
+
+- **Experimental setup:** Established procedures for configuring fNIRS hardware and software, network connections, PsychoPy scripts, and recording equipment.
+- **Experiment implementation:** Documented procedures for coordinating participant sessions and collecting synchronized fNIRS, video, and audio recordings.
+- **Data management:** Established guidelines for organizing recordings and performing post-session checks.
+- **Documentation and training:** Authored a step-by-step experimental manual used to train new members joining the 3-Task/4-Task research team from **September 2024 onward**.
+
+The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 2, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
 
 **2. DATA COLLECTION**
 
