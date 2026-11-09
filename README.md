@@ -96,7 +96,7 @@ My contributions included:
 - **Cap preparation and training:** Assembled the fNIRS caps, trained incoming interns in cap preparation and optode placement, and worked alongside them on cap assembly.
 - **Equipment procurement and coordination:** Served as the primary point of contact with **NIRx**, particularly Felix Topfner (for most of 2024), followed by Giovanni Hering, Maria Adelia de Aratanha, and Elina Zmeykina, coordinating cap orders, additional equipment purchases, technical inquiries, and follow-ups.
 - **Software maintenance:** Managed compatible versions of Aurora and Hyperscan to maintain a consistent and functional fNIRS acquisition setup.
-- **Conducting interviews with the new interns**
+- **Conducting interviews with the new interns and engineers**
 
 These contributions supported the continuity of experimental operations, standardized equipment preparation, and reliable multimodal data collection across the different studies.
 
