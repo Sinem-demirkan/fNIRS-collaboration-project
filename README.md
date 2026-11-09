@@ -22,7 +22,7 @@ In **March 2024**, during my third month as a Research Engineer, I developed the
 - **Experimental workflow:** Designed sequential routines for participant instructions, baseline recordings, solo brainstorming, and collaboration, with subsequent versions supporting additional experimental phases.
 - **LSL integration:** Implemented a Lab Streaming Layer (LSL) connection to transmit event markers to the fNIRS recording software, enabling synchronization of experimental events with neural recordings.
 - **Task presentation:** Developed a structured interface for presenting instructions, visual stimuli, and transitions between experimental phases.
-- **Reusability:** Created a flexible experimental script that served as the foundation for subsequent **3-Task/4-Task experiments**, with modifications to task durations, stimuli, and experimental conditions as needed.
+This script I created served as the foundation for subsequent **3-Task/4-Task experiments**. Later we (me and Cindy) made few modifications to the script (changing task durations, stimuli, and experimental conditions as needed) but not the triggers or how the connection is established between devices.
 
 This implementation established the experimental software and synchronization workflow used and adapted throughout the project.
 
