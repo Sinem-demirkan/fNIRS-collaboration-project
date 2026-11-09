@@ -1,4 +1,4 @@
-Both the fNIRS collaboration study Manual and the Rapport Annotation Pipeline were authored by Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from **January 2024 to August 2025**.
+fNIRS collaboration study Manual and the Rapport Annotation Pipeline are entirely written by me Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from **January 2024 to August 2025**.
 
 ### 1. Development and Documentation of the 3-Task/4-Task Experimental Pipeline
 
