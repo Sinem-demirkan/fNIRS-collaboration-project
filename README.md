@@ -100,7 +100,7 @@ My contributions included:
 
 These contributions supported the continuity of experimental operations, standardized equipment preparation, and reliable multimodal data collection across the different studies.
 
-**GENERAL ACKNOWLEDGMENTS AND CREDITS (because, it is important)**
+**GENERAL ACKNOWLEDGMENTS AND CREDITS**
 
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer and happy to have contributed significantly to this project.
 
