@@ -18,6 +18,6 @@ I would like to thank Professor Justine Cassell for the opportunity to work with
 
 I acknowledge Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow from July to September 2024, particularly their assistance with network configurations, pilot studies, and input into the experimental procedures. Their support was especially valuable during the preparation and implementation of the adult pilot study.
 
-For the Rapport Annotation Pipeline, I acknowledge Clara Cordion, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
+For the Rapport Annotation Pipeline, I acknowledge Clara Coridon, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
 
 These efforts were collaborative, and I am grateful to everyone who contributed to the development, implementation, and data collection activities supporting this research.
