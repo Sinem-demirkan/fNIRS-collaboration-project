@@ -36,7 +36,7 @@ My contributions include:
 
 **Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
 
-### 4. fNIRS DATA PROCESSING ANALYSIS ###
+### 4. fNIRS Data Processing and Analysis ###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
@@ -55,7 +55,7 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
-### 5. DATA COLLECTION ###
+### 5. Data Collection ###
 
 **5.1 Adult Pilot Dataset (September–December 2024) (I was the coordinator of this dataset acquisiton, and was also responsible for training everyone)**
 
