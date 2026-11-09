@@ -11,9 +11,17 @@ My contributions include:
 - **Data management:** Established guidelines for organizing recordings and performing post-session checks.
 - **Documentation and training:** Authored a step-by-step experimental manual used to train new members joining the 3-Task/4-Task research team from **September 2024 onward**.
 
-The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 4, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
+The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 5, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
 
-### 2. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
+### 2. Development of the PsychoPy Experimental Script and LSL Integration (March 2024)
+
+To operationalize the experimental framework conceptualized by **Professor Justine Cassell** and presented in the study protocol paper *[Bringing together multimodal and multilevel approaches to study the emergence of social bonds between children and improve social AI](https://doi.org/10.3389/fnrgo.2024.1290256)* (Bonnaire, Dumas, & Cassell, 2024), I proposed using **PsychoPy**, a platform I was familiar with from my previous research internships.
+
+In **March 2024**, during my third month as a Research Engineer, I developed the first PsychoPy script, implementing sequential experimental phases (solo, collaboration, and free discussion) and integrating **Lab Streaming Layer (LSL)** to send event markers for synchronization with fNIRS recordings.
+
+This script became the foundation for subsequent **3-Task/4-Task experiments**, with adaptations to task durations, stimuli, and experimental conditions as needed.
+
+### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
 I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
 
@@ -28,7 +36,7 @@ My contributions include:
 
 **Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
 
-### 3. fNIRS DATA PROCESSING ANALYSIS ###
+### 4. fNIRS DATA PROCESSING ANALYSIS ###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
 
 The analysis notebook includes:
@@ -47,13 +55,13 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
-### 4. DATA COLLECTION ###
+### 5. DATA COLLECTION ###
 
-**4.1 Adult Pilot Dataset (September–December 2024) (I was the coordinator of this dataset acquisiton, and was also responsible for training everyone)**
+**5.1 Adult Pilot Dataset (September–December 2024) (I was the coordinator of this dataset acquisiton, and was also responsible for training everyone)**
 
 A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**, by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
 
-**4.2 School Dataset (April–July 2025)**
+**5.2 School Dataset (April–July 2025)**
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
