@@ -1,21 +1,19 @@
 fNIRS collaboration study Manual and the Rapport Annotation Pipeline are entirely written by me Sinem Demirkan during her position as a Research Engineer working with Professor Justine Cassell at Articulabo, from **January 2024 to August 2025**.
 
-### 1. Development and Documentation of the 3-Task/4-Task Experimental Pipeline
+### 1. Development of the 3-Task/4-Task Experimental Pipeline
 
-I developed and documented the **3-Task/4-Task experimental pipeline**, along with a detailed experimental manual, to support the standardized setup, execution, and data collection of two-participant fNIRS hyperscanning experiments.
+I developed the **3-Task/4-Task experimental pipeline**. In this repo, you will find a detailed experimental manual, from setting up the equipment to executing the experiments. The idea of collecting data in a two-participant fNIRS hyperscanning experiment was conceptualized by **Professor Justine Cassell** and presented in the study protocol paper [*Bringing together multimodal and multilevel approaches to study the emergence of social bonds between children and improve social AI*](https://doi.org/10.3389/fnrgo.2024.1290256) (Bonnaire, Dumas, & Cassell, 2024). This manual operationalizes it. This exact pipeline was used to collect datasets (3 separate datasets in my presence), which I describe further in Section 5. The experimental workflow to collect fNIRS, video and audio made it possible to collect more datasets even after I was no longer a member of the team (from September 2025 and on).
 
-My contributions include:
+The manual documents my contributions in:
 
-- **Experimental setup:** Established procedures for configuring fNIRS hardware and software, network connections, PsychoPy scripts, and recording equipment.
-- **Experiment implementation:** Established and documented procedures for coordinating participant sessions and collecting synchronized fNIRS, video, and audio recordings.
-- **Data management:** Documented guidelines for organizing recordings and performing post-session checks.
-- **Documentation and training:** Authored a step-by-step experimental manual used to train new members joining the 3-Task/4-Task research team from **September 2024 onward**.
-
-The pipeline supported the collection of **two datasets (adult and school-aged participants)**, described further in Section 5, and contributed to the consistency, reproducibility, and continuity of the experimental workflow.
+- **Experimental setup:** Guidelines for configuring fNIRS hardware (cap configuration, optodes) and software (Aurora, Hyperscan), network connections (connection with TP-link, rooms), PsychoPy scripts (I detail this in the next section), and recording equipment (microphone, camera, cables, computers).
+- **Implementation:** Guidelines for coordinating participant sessions (what to pay attention to with participants, how to enter the rooms), collecting synchronized fNIRS, video, and audio recordings.
+- **Data management:** Guidelines on how and where to save recordings and performing post-session checks.
+- **Documentation and training:** Wrote this step-by-step experimental manual. I also personally trained each new member joining the 3-Task/4-Task research team from **September 2024 onward**.
 
 ### 2. Development of the PsychoPy Experimental Script and LSL Integration (March 2024)
 
-To operationalize the experimental framework conceptualized by **Professor Justine Cassell** and presented in the study protocol paper [*Bringing together multimodal and multilevel approaches to study the emergence of social bonds between children and improve social AI*](https://doi.org/10.3389/fnrgo.2024.1290256) (Bonnaire, Dumas, & Cassell, 2024), I proposed using **PsychoPy**, drawing on my experience with the platform during previous research internships.
+, I proposed using **PsychoPy**, drawing on my experience with the platform during previous research internships.
 
 In **March 2024**, during my third month as a Research Engineer, I developed the initial PsychoPy script, which included:
 
