@@ -13,20 +13,20 @@ The manual documents my contributions in:
 
 ### 2. Development of the PsychoPy Experimental Script and LSL Integration (March 2024)
 
-I proposed using **PsychoPy**, in light of my previous research internships in an EEG lab.
+I proposed using PsychoPy (instead of E-prime), in light of my previous research internships in an EEG lab.
 
-In **March 2024**, during my third month as a Research Engineer, I developed the initial PsychoPy script, which included:
+In March 2024, during my third month as a Research Engineer, I developed the initial PsychoPy script, which included:
 
 - **Experimental workflow:** Designed sequential frames for participant instructions, baseline recordings, solo brainstorming, and collaboration, with subsequent versions supporting additional experimental phases. Put key button presses and control mechanisms to take care of the alignment between different data streams.
 - **LSL integration:** Implemented a Lab Streaming Layer (LSL) connection to transmit event markers to the fNIRS recording software, enabling synchronization of experimental events with neural recordings.
 - **Task presentation:** Developed a structured interface for presenting instructions, visual stimuli, and transitions between experimental phases.
-This script I created served as the basis of all our PsychoPy scripts. **3-Task/4-Task experiments**. The changes we (myself and Cindy)  made afterwards to the scripts were changing time durations, and replacing task images with new ones but not the triggers or how the connection is established between devices.
+This script I created served as the basis of all our PsychoPy scripts of 3-Task/4-Task experiments. The changes we (myself and Cindy)  made afterwards to the scripts were changing time durations, and replacing task images with new ones but not the triggers or how the connection is established between devices.
 
 This implementation established the experimental software and synchronization workflow used and adapted throughout the project.
 
 ### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
-I designed and developed an **interpersonal rapport annotation pipeline** and authored its accompanying experimental manual to support the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
+I designed and developed an **interpersonal rapport annotation pipeline** and wrote the manual to enable the systematic collection and analysis of rapport ratings from video-recorded dyadic interactions.
 
 The pipeline enables researchers to **create new experiments or reuse my existing experimental design** using crowdsourcing platforms such as Amazon Mechanical Turk (AMT) and Prolific.
 
@@ -35,9 +35,10 @@ My contributions include:
 - **Experimental design:** Developed reusable annotation tasks for evaluating interpersonal rapport in 30-second video segments.
 - **Experiment implementation:** Established procedures for experiment setup, participant recruitment, and data collection.
 - **Data processing and analysis:** Documented methods for extracting and aggregating annotations, assessing inter-rater reliability, and calculating consolidated rapport scores.
-- **Documentation:** Authored a step-by-step manual to facilitate reproducibility and reuse by other researchers.
+- **Documentation:** Wrote a step-by-step manual to facilitate reproducibility and reuse by other researchers.
 
-**Acknowledgment:** Clara Cordion contributed to the post-collection annotation processing and rapport analysis work.
+I had helpful discussions with Michael Madaio and read work by Tanmay Sinha. 
+Clara Coridon had invaluable contributions to the post-collection annotation processing section of the manual.
 
 ### 4. fNIRS Data Processing and Analysis ###
 My data analysis contributions included aligning paired recordings, preparing data for analysis in 30-second segments, and developing an exploratory computational workflow for analyzing inter-brain synchrony (IBS) in fNIRS hyperscanning data.
@@ -64,15 +65,15 @@ I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS an
 
 A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**.
 
-I was responsible for **coordinating the dataset acquisition, organizing experimental sessions, and training all team members involved in data collection**.
+I was responsible for coordinating the dataset acquisition, organizing experimental sessions, and training all team members involved in data collection.
 
-Data collection was conducted by **Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024)**, and **Reem al Najjar (November–December 2024)**.
+Data collection was conducted by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024), and Reem al Najjar (November–December 2024).
 
 #### 5.2 School Dataset (April–July 2025)
 
-A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children.
+A second dataset comprising 13 dyads was collected between April and July 2025 at École élémentaire Boileau (17 rue Boileau, 75016 Paris, France), involving pairs of school-aged children.
 
-Data collection was primarily conducted by **Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, and Reem al Najjar**, with invaluable contributions from **Barokshana Baskaran, Gabrielle Alimi, and Imani Stone**.
+Data collection was primarily conducted by Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, and Reem al Najjar, with invaluable contributions from Barokshana Baskaran, Gabrielle Alimi, and Imani Stone.
 
 My contributions included:
 
