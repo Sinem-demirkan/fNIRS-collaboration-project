@@ -35,6 +35,8 @@ The analysis notebook includes:
 
 I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS analysis workflow. This work provided a substantial starting point for subsequent IBS analyses, and I shared the pipeline with new team members upon request to support continuity and facilitate further development.
 
+**3. INTERPERSONAL RAPPORT MANUAL**
+
 ACKNOWLEDGMENTS AND CREDITS
 
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
