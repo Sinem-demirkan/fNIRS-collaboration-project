@@ -14,7 +14,7 @@ A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Resea
 
 **2. School Dataset (April–July 2025)**
 
-A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children.
+A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
 Acknowledgments
 
