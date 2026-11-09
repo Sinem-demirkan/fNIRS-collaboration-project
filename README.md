@@ -6,21 +6,21 @@ I developed the **3-Task/4-Task experimental pipeline**. In this repo, you will 
 
 The manual documents my contributions in:
 
-- **Experimental setup:** Guidelines for configuring fNIRS hardware (cap configuration, optodes) and software (Aurora, Hyperscan), network connections (connection with TP-link, rooms), PsychoPy scripts (I detail this in the next section), and recording equipment (microphone, camera, cables, computers).
+- **Setup:** Guidelines for configuring fNIRS hardware (cap configuration, optodes) and software (Aurora, Hyperscan), network connections (connection with TP-link, rooms), PsychoPy scripts (I detail this in the next section), and recording equipment (microphone, camera, cables, computers).
 - **Implementation:** Guidelines for coordinating participant sessions (what to pay attention to with participants, how to enter the rooms), collecting synchronized fNIRS, video, and audio recordings.
 - **Data management:** Guidelines on how and where to save recordings and performing post-session checks.
 - **Documentation and training:** Wrote this step-by-step experimental manual. I also personally trained each new member joining the 3-Task/4-Task research team from **September 2024 onward**.
 
 ### 2. Development of the PsychoPy Experimental Script and LSL Integration (March 2024)
 
-, I proposed using **PsychoPy**, drawing on my experience with the platform during previous research internships.
+I proposed using **PsychoPy**, in light of my previous research internships in an EEG lab.
 
 In **March 2024**, during my third month as a Research Engineer, I developed the initial PsychoPy script, which included:
 
-- **Experimental workflow:** Designed sequential routines for participant instructions, baseline recordings, solo brainstorming, and collaboration, with subsequent versions supporting additional experimental phases.
+- **Experimental workflow:** Designed sequential frames for participant instructions, baseline recordings, solo brainstorming, and collaboration, with subsequent versions supporting additional experimental phases. Put key button presses and control mechanisms to take care of the alignment between different data streams.
 - **LSL integration:** Implemented a Lab Streaming Layer (LSL) connection to transmit event markers to the fNIRS recording software, enabling synchronization of experimental events with neural recordings.
 - **Task presentation:** Developed a structured interface for presenting instructions, visual stimuli, and transitions between experimental phases.
-This script I created served as the foundation for subsequent **3-Task/4-Task experiments**. Later we (me and Cindy) made few modifications to the script (changing task durations, stimuli, and experimental conditions as needed) but not the triggers or how the connection is established between devices.
+This script I created served as the basis of all our PsychoPy scripts. **3-Task/4-Task experiments**. The changes we (myself and Cindy)  made afterwards to the scripts were changing time durations, and replacing task images with new ones but not the triggers or how the connection is established between devices.
 
 This implementation established the experimental software and synchronization workflow used and adapted throughout the project.
 
