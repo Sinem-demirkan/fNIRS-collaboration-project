@@ -66,7 +66,7 @@ I worked closely with Patrice Fortin, from Guillaume Dumas's team, on the IBS an
 
 A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Research Centre, France**.
 
-I was responsible for **coordinating the dataset acquisition, organizing experimental sessions, and training all team members involved in data collection**, ensuring consistency in experimental procedures and equipment handling.
+I was responsible for **coordinating the dataset acquisition, organizing experimental sessions, and training all team members involved in data collection**.
 
 Data collection was conducted by **Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Sophie Etling, Barokshana Baskaran, and Gabrielle Alimi (September–December 2024)**, and **Reem al Najjar (November–December 2024)**.
 
@@ -106,7 +106,7 @@ These contributions supported the continuity of experimental operations, standar
 
 Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
 
-I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
+I worked closely with Cindy de Arajullo Silva and Hasan Onur Keles in operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
 
 For the Rapport Annotation Pipeline, I thank Clara Coridon for the helpful discussions, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
 
