@@ -12,10 +12,9 @@ A pilot dataset comprising **20 dyads** was collected at the **Inria Paris Resea
 
 A second dataset comprising **13 dyads** was collected between April and July 2025 at **École élémentaire Boileau (17 rue Boileau, 75016 Paris, France)**, involving pairs of school-aged children. This data collected by main experimenters (Sinem Demirkan, Cindy de Arajullo Silva, Hasan Onur Keles, Reem al Najjar), and invaluable work by Barokshana Baskaran, Gabrielle Alimi and Imani Stone.
 
-Acknowledgments
+Credits
+Professor Justine Cassell made this research possible and I thank her for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
 
-I would like to thank Professor Justine Cassell who made this research possible and for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
-
-I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow from July to September 2024, particularly their assistance with network configurations, pilot studies, and input into the experimental procedures. Their support was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
+I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow. Particularly their addition to the team made it possible to fix the network configurations, pilot studies, and input into the experimental procedures such as aligning data streams between July 2024-September 2024 prior to first real data collection. Their work was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
 
 For the Rapport Annotation Pipeline, I acknowledge Clara Coridon, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
