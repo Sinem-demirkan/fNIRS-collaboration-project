@@ -15,11 +15,16 @@ The pipeline supported the collection of **two datasets (adult and school-aged p
 
 ### 2. Development of the PsychoPy Experimental Script and LSL Integration (March 2024)
 
-To operationalize the experimental framework conceptualized by **Professor Justine Cassell** and presented in the study protocol paper *[Bringing together multimodal and multilevel approaches to study the emergence of social bonds between children and improve social AI](https://doi.org/10.3389/fnrgo.2024.1290256)* (Bonnaire, Dumas, & Cassell, 2024), I proposed using **PsychoPy**, a platform I was familiar with from my previous research internships.
+To operationalize the experimental framework conceptualized by **Professor Justine Cassell** and presented in the study protocol paper [*Bringing together multimodal and multilevel approaches to study the emergence of social bonds between children and improve social AI*](https://doi.org/10.3389/fnrgo.2024.1290256) (Bonnaire, Dumas, & Cassell, 2024), I proposed using **PsychoPy**, drawing on my experience with the platform during previous research internships.
 
-In **March 2024**, during my third month as a Research Engineer, I developed the first PsychoPy script, implementing sequential experimental phases (solo, collaboration, and free discussion) and integrating **Lab Streaming Layer (LSL)** to send event markers for synchronization with fNIRS recordings.
+In **March 2024**, during my third month as a Research Engineer, I developed the initial PsychoPy script, which included:
 
-This script became the foundation for subsequent **3-Task/4-Task experiments**, with adaptations to task durations, stimuli, and experimental conditions as needed.
+- **Experimental workflow:** Designed sequential routines for participant instructions, baseline recordings, solo brainstorming, and collaboration, with subsequent versions supporting additional experimental phases.
+- **LSL integration:** Implemented a Lab Streaming Layer (LSL) connection to transmit event markers to the fNIRS recording software, enabling synchronization of experimental events with neural recordings.
+- **Task presentation:** Developed a structured interface for presenting instructions, visual stimuli, and transitions between experimental phases.
+- **Reusability:** Created a flexible experimental script that served as the foundation for subsequent **3-Task/4-Task experiments**, with modifications to task durations, stimuli, and experimental conditions as needed.
+
+This implementation established the experimental software and synchronization workflow used and adapted throughout the project.
 
 ### 3. Development and Documentation of the Interpersonal Rapport Annotation Pipeline
 
