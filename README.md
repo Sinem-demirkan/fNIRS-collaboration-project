@@ -14,10 +14,8 @@ A second dataset comprising **13 dyads** was collected between April and July 20
 
 Acknowledgments
 
-I would like to thank Professor Justine Cassell for the opportunity to work with the research team at Articulabo.
+I would like to thank Professor Justine Cassell who made this research possible and for the opportunity to work with her research team at Articulabo. I learnt a lot during my 1 year and 8 months of being a research engineer with her.
 
-I acknowledge Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow from July to September 2024, particularly their assistance with network configurations, pilot studies, and input into the experimental procedures. Their support was especially valuable during the preparation and implementation of the adult pilot study.
+I would like to thank Cindy de Arajullo Silva and Hasan Onur Keles for their invaluable contributions to operationalizing the experimental workflow from July to September 2024, particularly their assistance with network configurations, pilot studies, and input into the experimental procedures. Their support was especially valuable during the preparation and we worked colaboratively as a team in implementing the adult pilot study.
 
 For the Rapport Annotation Pipeline, I acknowledge Clara Coridon, who worked as an intern alongside me on rapport analysis and contributed to the work described in the Post-collection Annotation Processing section.
-
-These efforts were collaborative, and I am grateful to everyone who contributed to the development, implementation, and data collection activities supporting this research.
